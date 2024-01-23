@@ -1,0 +1,3 @@
+React
+¬ Axios 
+	¬ It throws a error if for status code 	   other than 2##
