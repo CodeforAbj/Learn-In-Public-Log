@@ -1,3 +1,8 @@
+22-01-2024
 React
 ¬ Axios 
 	¬ It throws a error if for status code 	   other than 2##
+
+23-01-2024
+Mongo
+¬ Differences in CRUD operations of mongoose and mongo 
