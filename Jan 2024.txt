@@ -6,3 +6,8 @@ React
 23-01-2024
 Mongo
 ¬ Differences in CRUD operations of mongoose and mongo 
+
+24-01-2024
+¬ Axios
+	¬ error.response.status is way to catch particular errors
+	¬ preventing default submission is very very important
