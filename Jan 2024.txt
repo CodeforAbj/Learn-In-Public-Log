@@ -11,3 +11,8 @@ Mongo
 ¬ Axios
 	¬ error.response.status is way to catch particular errors
 	¬ preventing default submission is very very important
+
+25-01-2024
+¬ git
+	¬ git checkout  or something cleaned my days of Hardwork
+		it just didn't unstage the changes from staging area but also from local directory, commit daily whether puch or not
