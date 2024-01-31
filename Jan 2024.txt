@@ -15,4 +15,30 @@ Mongo
 25-01-2024
 ¬ git
 	¬ git checkout  or something cleaned my days of Hardwork
-		it just didn't unstage the changes from staging area but also from local directory, commit daily whether puch or not
+		it just didn't unstage the changes from staging area but also from local directory, commit daily whether push or not
+
+26-01-2024
+¬ mongoose 
+	¬ if findOne() fails to find one it return null
+
+27-01-2024
+¬ JavaScript 
+	¬Protypical Inheritence and Objects in details in js 
+
+
+28-01-2024
+¬ JavaScript 
+	¬ Adcance use this keyword, bind, call methods 
+	¬ Imp differene in Object key access . vs "" 
+	¬ Use of the this keyword in arrow function as its bind to its env not the immeditate obj. 
+¬ React 
+	¬ Custom Hooks, Traditional Classes way to state management 
+- Tailwind CSS
+	¬ Intro to Talwind, uses of different Classes
+
+30-01-2024
+¬ Front End
+	¬popover and anchor in html for pop/context menus
+
+31-01-2024
+¬ JavaScript
