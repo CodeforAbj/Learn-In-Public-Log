@@ -1,0 +1,4 @@
+~ 01/02/2024
+	~ JavaScript
+		~.prototype method is used for Consrtuctores of Objects and setPrototypeOf for literals which is discoureged.
+		~ Sperad Operator is very powerfull, one use I learnt today to take it as a parameter when number of arguments are defined

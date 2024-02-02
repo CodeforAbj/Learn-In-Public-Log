@@ -2,6 +2,9 @@
 React
 ¬ Axios 
 	¬ It throws a error if for status code 	   other than 2##
+¬ Why use context API
+	¬ To make syntax cleaner/ get Rid of prop drilling and State Management Tools fixes efficiency and fix unneccessary rerendering
+
 
 23-01-2024
 Mongo
@@ -42,3 +45,4 @@ Mongo
 
 31-01-2024
 ¬ JavaScript
+	¬ Destructing the Objects
