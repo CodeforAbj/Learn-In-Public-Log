@@ -2,3 +2,23 @@
 	~ JavaScript
 		~.prototype method is used for Consrtuctores of Objects and setPrototypeOf for literals which is discoureged.
 		~ Sperad Operator is very powerfull, one use I learnt today to take it as a parameter when number of arguments are defined
+	~ React 
+		~ useMemo, useRef, useCalback-memo and others in details
+~ 02/02/2024
+	~ JavaScript 
+		~ Learnt about Encaplutaion and Inheritence in classes and constructor functions
+	~ React 
+		~ Practices useMemo
+~ 03/02/2024
+	~ React
+		~ Learnt useCallback by practice 
+		~ The useCallback hook is used for memoise the functions as when the fns passed from parent to child and if parent rerenders it creates the fn 		  again and passes it again thus to avoid unneccesary recreation of fn we use Callback 
+		~ useRef , use of useRef.current, its used store dom and Storing Mutable Values without Triggering Rerenders (like times of rerender)
+	~ Java 
+		~ Revised Generics, inheritence in Generics (class and mutliple interfaces using &) and made notes
+		~ Revised Exception Handling, use of Class runtimeException in custom Exception and throwable.
+	~ JavaScript
+		~ Static, getter-setters, JSON parse() and Strngify().
+~ 04/02/2024
+	~ JavaScript
+		~ Got reminded for in loop iterates by key name and for of loop by values of those keys 
