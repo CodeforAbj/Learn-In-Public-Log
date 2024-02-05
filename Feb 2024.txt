@@ -22,3 +22,8 @@
 ~ 04/02/2024
 	~ JavaScript
 		~ Got reminded for in loop iterates by key name and for of loop by values of those keys 
+	~ React/Redux
+		~ Prop Drilling : It involves passing state or functions through multiple layers of components from a higher-level ancestor to a lower-level                   descendant where the state is needed. Thus can be less efficient in large projects
+		~ Recoil helps avoid prop drilling by allowing components to directly subscribe to and update the Recoil state they need, reducing the need to 		  		  pass state through multiple layers of components.
+			~ So when you need local state magement use React Hooks and when multilayer or global state is used use Recoil
+			~ useRecoilValue gives value of state useRecoilState gives value and setter fn and useSetRecoil gives only setter
