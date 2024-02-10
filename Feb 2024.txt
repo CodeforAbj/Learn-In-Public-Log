@@ -6,7 +6,7 @@
 		~ useMemo, useRef, useCalback-memo and others in details
 ~ 02/02/2024
 	~ JavaScript 
-		~ Learnt about Encaplutaion and Inheritence in classes and constructor functions
+		~ Learnt about Encaplutaion and Inheritence in classes and constructor functions (ES6 features)
 	~ React 
 		~ Practices useMemo
 ~ 03/02/2024
@@ -22,8 +22,18 @@
 ~ 04/02/2024
 	~ JavaScript
 		~ Got reminded for in loop iterates by key name and for of loop by values of those keys 
-	~ React/Redux
+	~ React/Recoil
 		~ Prop Drilling : It involves passing state or functions through multiple layers of components from a higher-level ancestor to a lower-level                   descendant where the state is needed. Thus can be less efficient in large projects
 		~ Recoil helps avoid prop drilling by allowing components to directly subscribe to and update the Recoil state they need, reducing the need to 		  		  pass state through multiple layers of components.
 			~ So when you need local state magement use React Hooks and when multilayer or global state is used use Recoil
 			~ useRecoilValue gives value of state useRecoilState gives value and setter fn and useSetRecoil gives only setter
+~ 05/02/2024
+	~ ReCoil
+		~ Selectors :
+			~ Used in place of useMemo of react. That is to calculate something based on something ! instead of adding a new state to be managed 			      		  we use selectors that get its the value from different atoms to give a final value !, in place of dependency array we use 'get' 			     		  keyword for watching atom for updating
+	 		~ Selectors can be used as one way to incorporate asynchronous data into the Recoil data-flow graph. 
+~ 10/02/2024
+		~ JavaScript
+			~ Shallow and Deep Copy and various ES6 features (classes and ...)
+			~ querySelectors and other basics of DOM 
+			~ EventListers, insertbefore and nextsibling ...
